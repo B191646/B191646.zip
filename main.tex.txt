@@ -1,0 +1,79 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usetheme{CambridgeUS}
+
+\title{Id:B191646}
+\subtitle{C4}
+\author{V.Hanmanthu}
+\date{}
+\begin{document}
+\begin{frame}{Question 3}
+  B191646\\
+ V.Hanmanthu\\
+  C4\\
+ Rajiv Gandhi Universities of knowledge and technologies Basara
+\end{frame}
+
+\begin{frame}{Overview}
+ \begin{enumerate}
+     \item Section
+     \begin{enumerate}
+         \item subsection
+     \end{enumerate}
+ \end{enumerate}
+\end{frame}
+
+\begin{frame}{section}
+This is some text in the first frame. This is some text in the first frame. This is some
+text in the first frame.
+\end{frame}
+
+\begin{frame}{Subsection}
+\begin{itemize}
+    \item ustified text item with reference Goodfellow et al. (2014)
+    \item This is some unjustified text in the frame. This is some unjustified text in the
+frame. This is some unjustified text in the frame. This is some unjustified text in
+the frame. This is some unjustified text in the frame.
+\begin{figure}
+    \centering
+    \includegraphics[width=200]{pavan.jpeg}
+    \caption{Basara IIIt}
+    \label{fig:my_label}
+\end{figure}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Overview}
+    \begin{enumerate}
+        \item Another section
+        \begin{itemize}
+            \item Subsection with math
+            \item subsection with minipages
+        \end{itemize}
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}{Another Section}
+  This is some text in the first frame. This is some text in the first frame. This is some
+text in the first frame
+\end{frame}
+
+\begin{frame}{Subsection with math}
+  This is some text in the first frame. This is some text in the first frame. This is some
+text in the first frame.
+   \begin{itemize}
+   \item This is some text in the first frame. This is some text in the first frame. This is
+    some text in the first frame
+   \item This is some text in the first frame. This is some text in the first frame. This is
+    some text in the first frame
+   \end{itemize}
+\end{frame}
+
+\begin{frame}{References}
+    Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil
+Ozair, Aaron Courville, and Yoshua Bengio. Generative adversarial nets. Advances in
+neural information processing systems, 27, 2014.
+\end{frame}
+\end{document}
